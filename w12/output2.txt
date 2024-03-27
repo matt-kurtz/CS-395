@@ -1,0 +1,12 @@
+Selection Sort:
+   Size 10000: 145 ms
+   Size 100000: 14541 ms
+   Size 1000000: 1457535 ms
+QuickSort:
+   Size 10000: 0 ms
+   Size 100000: 9 ms
+   Size 1000000: 105 ms
+Insertion Sort:
+   Size 10000: 72 ms
+   Size 100000: 7258 ms
+   Size 1000000: 729547 ms
